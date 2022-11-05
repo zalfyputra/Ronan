@@ -6,7 +6,7 @@ Play crafted in a way that you can use with almost all sort of web project. This
 ### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components
 
 
-### [🚀 View Demo](http://zalfyputra.github.io/EldenRIng/index.html)
+### [🚀 View Demo](https://zalfyputra.github.io/EldenRing/)
 
 [![play-tailwind](https://cdn.tailgrids.com/play-tailwind.jpg)](https://play-tailwind.tailgrids.com/)
 
